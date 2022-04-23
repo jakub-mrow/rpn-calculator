@@ -27,3 +27,6 @@ Besides the calculator, there are also settings that allow user to change roundi
 | Kotlin | 
 | Android Studio | 
 
+## To implement
+* Tests :)
+
